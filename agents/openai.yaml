@@ -1,4 +1,0 @@
-interface:
-  display_name: "SARA YouTube KOL Workflow"
-  short_description: "Run YouTube KOL discovery and Feishu sync"
-  default_prompt: "Use $saraking-yt-kol-workflow to find YouTube creators for my product keywords and sync the results to Feishu."
